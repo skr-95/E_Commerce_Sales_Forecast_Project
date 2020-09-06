@@ -13,8 +13,7 @@ class root_classify_words():
         category_keys = []
         count_keywords = dict()
         for s in dataframe[colonne]:
-            if pd.isnull(s):
-                continue
+            if pd.isnull(s): continue
             lines = s.lower()
             tokenized = nltk.word_tokenize(lines)
             nouns = [word for (word, pos) in nltk.pos_tag(tokenized) if is_noun(pos)]
