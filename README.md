@@ -23,7 +23,7 @@
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/result_3.png" width="600" />
 
 
-## 2 数据简介
+# 2 数据简介
 该数据源是来自一家英国网上销售商，是在2010年1月12日至2011年9月12日之间产生的50万条销售数据。销售的商品主要为一次性礼物，购买用户主要为各地的批发商。
 
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/original_data_info.png" width="900" />
