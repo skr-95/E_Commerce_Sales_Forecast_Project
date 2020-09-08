@@ -5,7 +5,7 @@
 注：链接是https://www.kaggle.com/carrie1/ecommerce-data
 
 # 1 项目目的及结果
-### 目的: 
+## 目的: 
 
 ### 针对商户销售数据信息，构建用户复购率指标，实现针对性策略提高用户复购率，提高销售额，降低营销成本
 
@@ -39,14 +39,13 @@
 
  # 3 部分过程
 
-
-## 3.1 词根词性统计
-
-<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/words_occurance_info.png" width="450" />
-
-## 3.2 商品类别词根统计
+## 3.1 商品类别词根统计
 
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/word_cloud.png" width="800" />
+
+## 3.2 词根词性统计
+
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/words_occurance_info.png" width="450" />
 
 ## 3.3 商品特征汇总
 
