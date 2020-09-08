@@ -14,20 +14,13 @@
 ## 1.3 数据说明
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/original_data_info.png" width="900" height="255" />
 
-> *InvoiceNo*: 每一笔订单的单号
-
-> *StockCode*: 订单中的一种商品编号
-
-> *Description*: 对这种商品的描述
-
-> *Quantity*: 在这一订单中这种商品的数量
-
-> *InvoiceDate*: 每笔订单的发生时间
-
-> *UnitPrice*: 该商品的单价
-
-> *CustomerID*: 购买者的用户ID
-
+> *InvoiceNo*: 每一笔订单的单号</br>
+> *StockCode*: 订单中的一种商品编号</br>
+> *Description*: 对这种商品的描述</br>
+> *Quantity*: 在这一订单中这种商品的数量</br>
+> *InvoiceDate*: 每笔订单的发生时间</br>
+> *UnitPrice*: 该商品的单价</br>
+> *CustomerID*: 购买者的用户ID</br>
 > *Country*: 购买用户的国家
 
  # 2. 特征工程
