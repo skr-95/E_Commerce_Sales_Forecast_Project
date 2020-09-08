@@ -5,7 +5,7 @@ from sklearn import metrics
 class ModelFit:
 
     def __init__(self, clf, params=None):
-        if not params:
+        if params:
             self.clf = clf(**params)
         else:
             self.clf = clf()
