@@ -41,25 +41,25 @@
 
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/word_cloud.png" width="800" />
 
-## 3.2 词根词性统计
-
-<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/words_occurance_info.png" width="450" />
-
-## 3.3 商品特征汇总
-
-<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/invoice_info.png" width="900" />
-
-## 3.4 用户特征汇总
-
-<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/customer_features_info.png" width="900" />
-
-## 3.5 参数训练过程
+## 3.2 参数训练过程
 
 <a style="float:left;"><img border=0 src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/SVC_learning_curve.png" width="400"/></a><a style="float:left;"><img border=0 src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/LR_learning_curve.png" width="400"/></a>
 
-## 3.6 最佳参数模型预测结果汇总
+## 3.3 最佳参数模型预测结果汇总
 
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/cnf_matrix_summary.png" width="800" />
+
+## 3.4 词根词性统计
+
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/words_occurance_info.png" width="450" />
+
+## 3.5 商品特征汇总
+
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/invoice_info.png" width="900" />
+
+## 3.6 用户特征汇总
+
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/customer_features_info.png" width="900" />
 
 
 # 4. 其他
