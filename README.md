@@ -1,9 +1,5 @@
 # E-Commerce Sales Forecast
 
-这个项目数据来源自于Kaggle平台上的E-Commerce data.
-
-注：链接是https://www.kaggle.com/carrie1/ecommerce-data
-
 # 1 项目目的及结果
 ## 目的: 
 
@@ -25,6 +21,8 @@
 
 # 2 数据简介
 该数据源是来自一家英国网上销售商，是在2010年1月12日至2011年9月12日之间产生的50万条销售数据。销售的商品主要为一次性礼物，购买用户主要为各地的批发商。
+
+这个项目数据来源自于Kaggle平台上的E-Commerce data. https://www.kaggle.com/carrie1/ecommerce-data
 
 <img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/original_data_info.png" width="900" />
 
@@ -57,7 +55,7 @@
 
 ## 3.5 参数训练过程
 
-<a style="float:left;"><img border=0 src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/SVC_learning_curve.png" width="450"/></a><a style="float:left;"><img border=0 src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/LR_learning_curve.png" width="450"/></a>
+<a style="float:left;"><img border=0 src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/SVC_learning_curve.png" width="400"/></a><a style="float:left;"><img border=0 src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/LR_learning_curve.png" width="400"/></a>
 
 ## 3.6 最佳参数模型预测结果汇总
 
