@@ -5,6 +5,25 @@
 注：链接是https://www.kaggle.com/carrie1/ecommerce-data
 
 # 1. 项目简介
+## 1.1 项目目的
+### 目的: 
+
+### 针对商户销售数据信息，构建用户复购率指标，实现针对性策略提高用户复购率，提高销售额，降低营销成本
+
+## 1.2 项目结果：
+### 指标正确率：
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/result_4.png" width="150" />
+
+### 预测结果统计：
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/result_1.png" width="900" />
+
+### 收益提升预计：
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/result_2.png" width="600" />
+
+### 成本节约预计：
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/result_3.png" width="600" />
+
+
 ## 1.1 数据来源
 该数据源是来自一家英国网上销售商，是在2010年1月12日至2011年9月12日之间产生的50万条销售数据。销售的商品主要为一次性礼物，购买用户主要为各地的批发商。
 
@@ -12,7 +31,7 @@
 **目的: 构建再次购买可能性指标, 利用该指标, 提高用户复购率, 增加企业利润**
 
 ## 1.3 数据说明
-<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/original_data_info.png" width="900" height="255" />
+<img src="https://github.com/skr-95/E_Commerce_Sales_Forecast_Project/blob/master/fig/original_data_info.png" width="900" />
 
 > *InvoiceNo*: 每一笔订单的单号</br>
 > *StockCode*: 订单中的一种商品编号</br>
